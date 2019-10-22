@@ -1,7 +1,7 @@
 import time
 from bloque import Bloque
 
-class ChainBlock(Object):
+class ChainBlock(object):
     '''
     '''
     def __init__(self):
